@@ -1,5 +1,5 @@
-Rive 🚀️
-<img align="right" width="300" src="screenshots/riveanimation.gif" alt="riveanimation.gif">
+
+# Rive 🚀️
 
 Rive is a powerful tool for creating interactive animations and integrating them into applications.
 It allows designers to create animations and control them dynamically within an app. Rive animations
@@ -9,6 +9,8 @@ experience of the application.
 Using Jetpack Compose and ViewModel, I have created an example login screen featuring these
 interactive animations. This application offers a dynamic way to toggle password visibility and
 provides a user interface enriched with animations.
+
+<img src="screenshots/riveanimation.gif" alt="riveanimation.gif" width="250" >
 
 ## Getting Started
 
